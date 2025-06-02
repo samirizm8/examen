@@ -1,0 +1,20 @@
+# Ignore les dossiers temporaires et de build
+.vs/
+bin/
+obj/
+
+# Fichiers utilisateur Visual Studio
+*.user
+*.suo
+
+# Fichiers de logs
+*.log
+
+# Packages NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Fichiers de build spécifiques
+*.exe
+*.dll
